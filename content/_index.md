@@ -4,10 +4,8 @@ description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+Production and mixing is a crucial part of a project. It is building a bridge between the artist and your vision. I can be your architect.
 
-I'm Edna West, a Web Developer and Entrepreneur.
+I compose music, mix and do sound design for labels, artists and films. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
-
-[Get to know me better](/about "Get to know me better")
+If it sounds, I'm in.

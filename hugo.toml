@@ -9,8 +9,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hola soy cuki"
-  sub = "Sound Designer"
+  main = "MARIANO CUKIERMAN"
+  sub = "MIXER. PRODUCER. SOUND DESIGNER"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -29,14 +29,12 @@ pygmentsCodeFences=true
   rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
-  gopher = "./images/gopher.png" # checkout https://gopherize.me/
   h1 = 'Bummer!'
   p = "It seems that this page doesn't exist."
 
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "article"
   portfolio = "project"
 
 [params.sidebar]
@@ -48,14 +46,11 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
+  linkedin = "https://www.linkedin.com/in/mariano-nicol%C3%A1s-cukierman-470405163/"
+  instagram = "https://www.instagram.com/cuki.wav"
 
 [params.contact]
-  email = "cuki@cuki.com"
+  email = "mariano.cukierman@gmail.com"
   text= "Contact me!" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
@@ -75,12 +70,6 @@ pygmentsCodeFences=true
   url = "/portfolio/"
   weight = -110
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
 
 [sitemap]
   changefreq = "monthly"

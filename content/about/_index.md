@@ -4,7 +4,4 @@ description: Hey, I'm Edna West
 images: ["/images/sample.jpg"]
 ---
 
-
-This is my about page. :wave:
-
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+I believe that creativity is the starting point to find the solution to most of the problems and situations we face every day. I am very thoughtful and intuitive for every project I get involved in. I like to internalize myself as thoroughly as possible, to find the perfect sound that represents each music and thus be able to reflect the essence of each one of them. For this reason, I am in constant training to continue incorporating new tools that allow me to solve in the most efficient and creative way.
