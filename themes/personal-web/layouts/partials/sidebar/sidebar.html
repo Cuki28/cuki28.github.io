@@ -1,8 +1,8 @@
 <header style="{{ partial "sidebar/style" . | safeCSS }}">
   <div class="intro">
     <div class="logo-container">
-      <a href='{{ baseURL }}'>
-        <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" }}' alt="Profile {{ .Title }}" class="rounded-logo">
+      <a href='{{ .Site.Params.baseURL }}'>
+        <img src='{{ .Site.Params.baseURL }}{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" }}' alt="Profile {{ .Title }}" class="rounded-logo">
       </a>
     </div>
     <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
